@@ -46,6 +46,10 @@ ul {
   color: #888888;
 }
 
+.underlinetext {
+    text-decoration: underline;
+}
+
 #wrap {
   width: 1000px;
   margin: 50px 50px;
